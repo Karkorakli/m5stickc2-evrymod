@@ -1,0 +1,15 @@
+{
+  "name": "EvryMod for M5StickC2",
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/Karkorakli/m5stickc2-evrymod/main/1.9TDI_EvryMod.ino.bin",
+  "description": "Diesel tuning firmware for the M5StickC2 — modifies fuel map based on throttle input.",
+  "board": "M5StickC2",
+  "filesystem": false,
+  "firmware": [
+    {
+      "name": "EvryMod",
+      "url": "https://raw.githubusercontent.com/Karkorakli/m5stickc2-evrymod/main/1.9TDI_EvryMod.ino.bin",
+      "address": "0x10000"
+    }
+  ]
+}
