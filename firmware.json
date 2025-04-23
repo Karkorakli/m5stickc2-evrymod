@@ -1,8 +1,8 @@
 {
-  "name": "EvryMod for M5StickC2",
+  "name": "1.9 TDI AGR Evry mod (PowerBox)",
   "version": "1.0.0",
   "url": "https://raw.githubusercontent.com/Karkorakli/m5stickc2-evrymod/main/1.9TDI_EvryMod.ino.bin",
-  "description": "Diesel tuning firmware for the M5StickC2 — modifies fuel map based on throttle input.",
+  "description": "Diesel tuning firmware for the M5StickC2 — lies to ECU for more or less (ECO mode) fuel injection.",
   "board": "M5StickC2",
   "filesystem": false,
   "firmware": [
