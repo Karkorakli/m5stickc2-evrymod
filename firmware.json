@@ -8,7 +8,7 @@
   "firmware": [
     {
       "name": "EvryMod",
-      "url": "https://raw.githubusercontent.com/Karkorakli/m5stickc2-evrymod/main/1.9TDI_EvryMod.ino.bin",
+      "url": "https://github.com/Karkorakli/m5stickc2-evrymod/blob/main/1.9TDI_EvryMod.ino.bin",
       "address": "0x10000"
     }
   ]
